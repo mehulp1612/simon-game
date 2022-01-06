@@ -38,6 +38,7 @@ btn.forEach((value)=>{
         {
             alert("wrong!!, press any key");
             level=1;
+            window.location.reload();
 
         }
         else{
